@@ -1,8 +1,4 @@
 <?php
-
-$x= 12;
-
-
-echo $x;
-
+//printing Hello World !!
+echo "Hello Wolrd!";
 ?>
