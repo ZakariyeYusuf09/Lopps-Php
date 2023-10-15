@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Question 4</title>
+    <title>Question 8</title>
 </head>
 <body>
     <!-- 8. Write a program that calculates lowest common
