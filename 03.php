@@ -7,17 +7,28 @@
 </head>
 <body>
 <?php
-$num = 14;
-while ($num > 0) {
-    if ($num % 2 == 0) {
-        echo $num . " is even\n";
-    } else {
-        echo $num . " is odd\n";
-    }
-    $num--;
-}
+// $num = 14;
+// while ($num > 0) {
+//     if ($num % 2 == 0) {
+//         echo $num . " is even\n";
+//     } else {
+//         echo $num . " is odd\n";
+//     }
+//     $num--;
+// }
 
 // or 
+$y = 6;
+
+while($y>0){
+    if($y%2==0){
+        echo $y .  " is even ";
+    }
+    else{
+        echo $y .  " is odd ";
+    }
+    $y--;
+}
 
 
 ?>
