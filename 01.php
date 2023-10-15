@@ -6,6 +6,9 @@
     <title>Question 1</title>
 </head>
 <body>
+    <!-- 1. Write a program that compares three integer
+     numbers then specifies and prints the greatest and
+    the smallest one (do not use built-in function such as min or max).. -->
 <?php
 // Define three integer numbers
 $number1 = 85;

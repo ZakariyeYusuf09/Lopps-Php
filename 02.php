@@ -6,6 +6,9 @@
     <title>Question 2</title>
 </head>
 <body>
+    <!--  Write a program that calculates the factorial 
+    of a given number (for example, factorial of 5 = 120)
+    using for statement. -->
     <?php
     $factorial=5;
     $total=1;

@@ -6,6 +6,9 @@
     <title>Question 3</title>
 </head>
 <body>
+    <!-- 3. Write a program that prints whether
+     the number is even (divisible by 2) or odd using while 
+    Statement -->
 <?php
 
 $y = 6;
