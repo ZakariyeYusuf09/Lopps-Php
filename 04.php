@@ -9,7 +9,15 @@
 <!-- 4. Write a program that prints odd numbers from 2 to 20 using do…while statement. -->
 
 <?php
-
+$number=2;
+do{
+    
+    if($number % 2 != 0){
+        echo $number . " ";
+    }
+    $number++;
+   
+}while($number<=20);
 ?>
 
 </body>
