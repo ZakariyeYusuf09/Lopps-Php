@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Question 4</title>
+    <title>Question 6</title>
 </head>
 <body>
     <!-- 6. Write a program to find all factors of a positive

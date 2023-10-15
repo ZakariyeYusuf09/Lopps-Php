@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Question 4</title>
+    <title>Question 5</title>
 </head>
 <body>
 <!-- 5. Write a program that prints numbers divisible by 5 from 1 to 50 using for statement. -->
