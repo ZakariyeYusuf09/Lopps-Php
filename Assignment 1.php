@@ -201,6 +201,7 @@ while ($counter < $numTerms) {
     $secondTerm = $nextTerm;
     $counter++;
 }
-    ?>
+?>
+
 </body>
 </html>
