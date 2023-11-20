@@ -93,14 +93,12 @@ while($i<=$number){
 echo "<br>" . "<b>Question 7</b>". "<br>";
 $number1 = 42;
 $number2= 70;
-while($number1 <=42 && $number2<=70){
-    for($i=1; $i<=70; $i++){
-        if($number1 % $i == 0 && $number2 % $i ==0){
-            echo $i . " ";
-        }
+$i=1;
+while($i <=$number2){
+    if($number1%$i==0 && $number2%$i==0){
+        echo "$i ";
     }
-    $number1++;
-    $number2++;
+    $i++;
 }
 
 //question 8
