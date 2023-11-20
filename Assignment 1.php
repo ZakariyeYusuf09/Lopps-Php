@@ -81,14 +81,13 @@ for($i=1; $i<=50; $i++){
 //question 6
 echo "<br>" . "<b>Question 6</b>". "<br>";
 $number = 42;
-while($number <=42){
-    for($i=1; $i<=$number; $i++){
-        if($number % $i == 0){
-            echo $i . " ";
-        }
+$i=1;
+while($i<=$number){
+    if($number%$i==0){
+        echo "$i ";
     }
-    $number++;
-}
+     $i++;
+ }
 
 //question 7
 echo "<br>" . "<b>Question 7</b>". "<br>";
